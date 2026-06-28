@@ -1,0 +1,6 @@
+# RISC-V RV64I CPU Simulator
+# No external Python packages required.
+# Uses only the Python Standard Library.
+
+# Python version
+python>=3.11
