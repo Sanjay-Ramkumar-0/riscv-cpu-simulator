@@ -117,13 +117,13 @@ Detailed documentation for each subsystem is available in the `docs/` directory.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/Sanjay-Ramkumar-0/riscv-cpu-simulator.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd <repository-name>
+cd riscv-cpu-simulator
 ```
 
 ---
